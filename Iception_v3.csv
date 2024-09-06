@@ -1,0 +1,5 @@
+Model,Result
+Resnet50,3.0
+Densenet121,2.0
+GoogLeNet,1.0
+VGG16,911.0
